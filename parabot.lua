@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/babss22/AtlanticCity/refs/heads/main/htbx.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/babss22/AtlanticCity/refs/heads/main/atrgdl.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/babss22/AtlanticCity/refs/heads/main/atclck.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/babss22/AtlanticCity/refs/heads/main/teambot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kingdos227/-/refs/heads/main/ut.lua"))()
